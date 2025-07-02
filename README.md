@@ -79,4 +79,6 @@ Impresión de ConComparadorTreesetInverso:
 # IMAGEN 
 ![alt text](image.png)
 ---
+# IMAGEN 2
+![alt text](image-1.png)
 
